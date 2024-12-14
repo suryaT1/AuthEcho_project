@@ -133,7 +133,7 @@ Contributions are welcome! To contribute:
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
-![Project Flow](../images/journey_spk.png)
+![Project Flow](/images/journey_spk.png)
 
 
 
