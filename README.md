@@ -70,11 +70,11 @@ The Gradio interface allows you to:
 
 ```
 .
-├── app.py                  # Main application file
-├── lstm_speaker_model.h5   # Pre-trained speaker model (to be added)
-├── lstm_gender_model.h5    # Pre-trained gender model (to be added)
-├── lstm_speaker_label.pkl  # Speaker label encoder (to be added)
-├── lstm_gender_label.pkl   # Gender label encoder (to be added)
+├── app.py                # Main application file
+├── models/lstm_speaker_model.h5   # Pre-trained speaker model (to be added)
+├── models/lstm_gender_model.h5    # Pre-trained gender model (to be added)
+├── models/lstm_speaker_label.pkl  # Speaker label encoder (to be added)
+├── models/lstm_gender_label.pkl   # Gender label encoder (to be added)
 ├── requirements.txt        # Python dependencies
 └── README.md               # Project documentation
 ```
